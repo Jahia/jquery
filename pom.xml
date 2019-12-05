@@ -52,7 +52,7 @@
         <version>7.1.0.0</version>
     </parent>
     <artifactId>jquery</artifactId>
-	<version>7.1.4-SNAPSHOT</version>
+	<version>7.3.0-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>Jahia jQuery</name>
     <description>Provides jQuery library for Jahia xCM server.</description>
@@ -60,7 +60,7 @@
         <connection>scm:git:git@github.com:Jahia/jquery.git</connection>
         <developerConnection>scm:git:git@github.com:Jahia/jquery.git</developerConnection>
         <url>scm:git:git@github.com:Jahia/jquery.git</url>
-      <tag>7_2_x</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
