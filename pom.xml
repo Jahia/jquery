@@ -49,10 +49,10 @@
     <parent>
         <groupId>org.jahia.modules</groupId>
         <artifactId>jahia-modules</artifactId>
-        <version>7.3.4.0-SNAPSHOT</version>
+        <version>7.5.0.0-SNAPSHOT</version>
     </parent>
     <artifactId>jquery</artifactId>
-	<version>7.3.0-SNAPSHOT</version>
+	<version>8.0.0-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>Jahia jQuery</name>
     <description>Provides jQuery library for Jahia xCM server.</description>
@@ -67,6 +67,7 @@
         <jahia-depends />
         <jahia-static-resources>/javascript</jahia-static-resources>
         <jahia-module-type>system</jahia-module-type>
+        <jahia-module-signature>MCwCFAr58rhfIRElM9r94AvA2aL8Z5URAhRsjYnIIBwDT0MBpDncJpFd2y5TFg==</jahia-module-signature>
     </properties>
 
     <repositories>
