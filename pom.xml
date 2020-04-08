@@ -67,7 +67,7 @@
         <jahia-depends />
         <jahia-static-resources>/javascript</jahia-static-resources>
         <jahia-module-type>system</jahia-module-type>
-        <jahia-module-signature>MCwCFAr58rhfIRElM9r94AvA2aL8Z5URAhRsjYnIIBwDT0MBpDncJpFd2y5TFg==</jahia-module-signature>
+        <jahia-module-signature>MCwCFFafjg22TclJnoQGA/66v3YBS2lAAhRfILK5p4u2YCxxuxFitJAAc3rVOw==</jahia-module-signature>
     </properties>
 
     <repositories>
