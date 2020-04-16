@@ -7,7 +7,7 @@
 
                                     http://www.jahia.com
 
-        Copyright (C) 2002-2019 Jahia Solutions Group SA. All rights reserved.
+        Copyright (C) 2002-2020 Jahia Solutions Group SA. All rights reserved.
 
         THIS FILE IS AVAILABLE UNDER TWO DIFFERENT LICENSES:
         1/GPL OR 2/JSEL
@@ -28,7 +28,7 @@
         GNU General Public License for more details.
 
         You should have received a copy of the GNU General Public License
-        along with this program. If not, see <http://www.gnu.org/licenses />.
+        along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 
         2/ JSEL - Commercial and Supported Versions of the program
@@ -49,10 +49,10 @@
     <parent>
         <groupId>org.jahia.modules</groupId>
         <artifactId>jahia-modules</artifactId>
-        <version>7.3.4.0-SNAPSHOT</version>
+        <version>7.5.0.0-SNAPSHOT</version>
     </parent>
     <artifactId>jquery</artifactId>
-	<version>7.3.0-SNAPSHOT</version>
+	<version>8.0.0-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>Jahia jQuery</name>
     <description>Provides jQuery library for Jahia xCM server.</description>
@@ -67,6 +67,7 @@
         <jahia-depends />
         <jahia-static-resources>/javascript</jahia-static-resources>
         <jahia-module-type>system</jahia-module-type>
+        <jahia-module-signature>MCwCFFafjg22TclJnoQGA/66v3YBS2lAAhRfILK5p4u2YCxxuxFitJAAc3rVOw==</jahia-module-signature>
     </properties>
 
     <repositories>
