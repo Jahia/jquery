@@ -67,7 +67,8 @@
         <jahia-depends />
         <jahia-static-resources>/javascript</jahia-static-resources>
         <jahia-module-type>system</jahia-module-type>
-        <jahia-module-signature>MCwCFDaO2hUpNiFJUjeNbL5mCqewJf6MAhQTluRs9ghvxits3hH1yGbPsYKDjw==</jahia-module-signature>
+        <jahia-module-signature>MC0CFBWF5z+fz1da4X1/D3AB+iMSBBmEAhUAhbiqlDp8Lnv/LmJBAI0Fg1mRrLo=</jahia-module-signature>
+        <jahia.plugin.version>6.9</jahia.plugin.version>
     </properties>
 
     <repositories>
@@ -84,7 +85,7 @@
             <url>https://devtools.jahia.com/nexus/content/groups/public</url>
         </repository>
     </repositories>
-    
+
     <build>
         <plugins>
             <plugin>
